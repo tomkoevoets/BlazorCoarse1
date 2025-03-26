@@ -50,9 +50,9 @@
               "Title": "ServerComponent.razor",
               "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerComponent.razor*",
+              "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerComponent.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-26T15:06:14.139Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "ServerManagement\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T15:02:33.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T15:02:33.974Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "ServerManagement\\Components\\Pages\\Servers.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T14:55:58.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T14:55:58.819Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "ServerManagement\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T14:27:17.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T14:27:17.604Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "ServerManagement\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T14:25:43.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T14:25:43.435Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "ServerManagement\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-26T14:24:23.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T14:24:23.844Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "ServerManagement\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T14:23:51.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T14:23:51.031Z"
             }
           ]
         }
