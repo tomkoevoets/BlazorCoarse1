@@ -58,8 +58,7 @@
               "RelativeToolTip": "ServerManagement\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T12:34:04.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T12:34:04.561Z"
             },
             {
               "$type": "Document",
@@ -67,9 +66,9 @@
               "Title": "EditServer.razor",
               "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\EditServer.razor",
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\EditServer.razor",
-              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\EditServer.razor*",
-              "RelativeToolTip": "ServerManagement\\Components\\Pages\\EditServer.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\EditServer.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Pages\\EditServer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-27T12:30:42.107Z",
               "EditorCaption": ""
@@ -84,8 +83,7 @@
               "RelativeToolTip": "ServerManagement\\Components\\Pages\\Servers.razor",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T09:44:19.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T09:44:19.686Z"
             },
             {
               "$type": "Document",
@@ -95,7 +93,7 @@
               "RelativeDocumentMoniker": "ServerManagement\\Models\\Server.cs",
               "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Models\\Server.cs",
               "RelativeToolTip": "ServerManagement\\Models\\Server.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T09:44:04.834Z",
               "EditorCaption": ""
@@ -110,8 +108,7 @@
               "RelativeToolTip": "ServerManagement\\Models\\CitiesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:38:42.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T10:38:42.304Z"
             },
             {
               "$type": "Document",
@@ -123,8 +120,7 @@
               "RelativeToolTip": "ServerManagement\\Models\\ServersRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T10:11:18.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T10:11:18.198Z"
             },
             {
               "$type": "Document",
@@ -136,8 +132,7 @@
               "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T09:45:05.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T09:45:05.727Z"
             },
             {
               "$type": "Document",
@@ -149,8 +144,7 @@
               "RelativeToolTip": "ServerManagement\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T12:02:37.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T12:02:37.507Z"
             }
           ]
         }
