@@ -388,3 +388,4 @@ FodyWeavers.xsd
 *.v2
 /.vs/BlazorCoarse1/v17
 *.cs
+*.v2
