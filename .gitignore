@@ -385,3 +385,6 @@ FodyWeavers.xsd
 /.vs/BlazorCoarse1/v17
 *.v2
 /.vs/BlazorCoarse1/v17
+*.v2
+/.vs/BlazorCoarse1/v17
+*.cs
