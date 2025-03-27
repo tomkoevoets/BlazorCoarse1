@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\addserver.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\addserver.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\models\\serversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\models\\serversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Weather.razor*",
+              "RelativeToolTip": "ServerManagement\\Components\\Pages\\Weather.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T16:30:11.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServersRepository.cs",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Models\\ServersRepository.cs",
+              "RelativeDocumentMoniker": "ServerManagement\\Models\\ServersRepository.cs",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Models\\ServersRepository.cs",
+              "RelativeToolTip": "ServerManagement\\Models\\ServersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:28:35.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,20 +78,20 @@
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\AddServer.razor",
               "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\AddServer.razor",
               "RelativeToolTip": "ServerManagement\\Components\\Pages\\AddServer.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-27T16:25:48.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Servers.razor",
               "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor",
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Servers.razor",
               "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor",
               "RelativeToolTip": "ServerManagement\\Components\\Pages\\Servers.razor",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-27T09:44:19.686Z",
               "EditorCaption": ""
@@ -90,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Program.cs",
               "RelativeDocumentMoniker": "ServerManagement\\Program.cs",
