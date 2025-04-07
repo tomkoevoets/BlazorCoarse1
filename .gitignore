@@ -361,31 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-.vs/BlazorCoarse1/CopilotIndices/17.13.441.19478/CodeChunks.db
-.vs/BlazorCoarse1/CopilotIndices/17.13.441.19478/CodeChunks.db-shm
-.vs/BlazorCoarse1/CopilotIndices/17.13.441.19478/CodeChunks.db-wal
-.vs/BlazorCoarse1/CopilotIndices/17.13.441.19478/SemanticSymbols.db
-.vs/BlazorCoarse1/CopilotIndices/17.13.441.19478/SemanticSymbols.db-shm
-.vs/BlazorCoarse1/CopilotIndices/17.13.441.19478/SemanticSymbols.db-wal
-*.db
-*.db-shm
-*.db-wal
-*.db-shm
-*.db
-*.db-wal
-*.v2
-*.v2
-.vs/BlazorCoarse1/v17/.suo
-*.json
-.vs/BlazorCoarse1/v17/DocumentLayout.backup.json
-.vs/BlazorCoarse1/v17/DocumentLayout.json
-*.bin
-*.bin
-*.bin
-/.vs/BlazorCoarse1/v17
-*.v2
-/.vs/BlazorCoarse1/v17
-*.v2
-/.vs/BlazorCoarse1/v17
-*.cs
-*.v2

@@ -2,69 +2,65 @@
 
 @inject NavigationManager NavigationManager
 
-
 <h3>Servers</h3>
-<br />
-<br />
+<br/>
+<br/>
 <div class="container-fluid text-center">
-	<div class="row w-100">
-		@foreach (var city in cities)
-		{
-			<div class="col">
-				<div class="card" style="width: 7rem; ">
-					<img src="@($"/images/{city}.png")" class="card-img-top" alt="picture of @city">
-					<div class="card-body">
-						<h5 class="card-title">@city</h5>
-						<p class="card-text"></p>
-						<button type="button" class="btn btn-primary">Status</button>
-					</div>
-				</div>
-			</div>
-		}
-	</div>
+    <div class="row w-50">
+        @foreach (var city in cities)
+        {
+            <div class="col">
+                <div class="card">
+                    <img src="@($"/images/{city}.png")" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <button type="button" class="btn btn-primary">@city</button>
+                    </div>
+                </div>
+                
+            </div>
+        }
+    </div>
 </div>
 
 <br />
-<br />
-
-
 <ul>
-	@foreach (var server in servers)
-	{
-		<li>
-			@server.Name in @server.City is 
-			<span style="color:@((server.IsOnline ? "green" : "red"))">
-				@(server.IsOnline ? "online" : "offline")
-			</span>
-			&nbsp;
-			<a href="/servers/@server.ServerId" class="btn btn-link">Edit</a>
-			&nbsp;
-			<EditForm 
-				Model="@server"
-				FormName="@($"form-server-{server.ServerId}")"
-				OnValidSubmit="@(() => {DeleteServer(server.ServerId); })">
-				<button type="submit" class="btn btn-primary">Delete</button>
-			</EditForm>
-		</li>
-	}
+    @foreach(var server in servers)
+    {
+        <li>
+            @server.Name in @server.City is 
+            <span style="color:@((server.IsOnline ? "green" : "red"))">
+                @(server.IsOnline ? "online" : "offline")
+            </span>
+            &nbsp;
+            <a href="/servers/@server.ServerId" class="btn btn-link">Edit</a>
+            &nbsp;
+            <EditForm 
+                Model="server"
+                FormName="@($"form-server-{server.ServerId}")"
+                 OnValidSubmit="@(() => { DeleteServer(server.ServerId); })">
+                <button type="submit" class="btn btn-primary">Delete</button>
+            </EditForm>
+            
+        </li>
+    }
+    
 </ul>
 <p>
-	<a href="/servers/add" class="btn btn-primary">Add Server</a>
+    <a href="/servers/add" class="btn btn-primary">Add Server</a>
 </p>
 
 @code {
+    private List<Server> servers = ServersRepository.GetServersByCity("Toronto");
 
-	private List<Server> servers = ServersRepository.GetServersByCity("Toronto");
+    private List<String> cities = CitiesRepository.GetCities();
 
-	private List<String> cities = CitiesRepository.GetCities();
-
-	private void DeleteServer(int serverId)
-	{
-		if (serverId > 0)
-		{
-			ServersRepository.DeleteServer(serverId);
-			NavigationManager.Refresh();
-		}
-	}
+    private void DeleteServer(int serverId)
+    {
+        if (serverId > 0)
+        {
+            ServersRepository.DeleteServer(serverId);
+            NavigationManager.NavigateTo("/servers");
+        }
+    }
 
 }
