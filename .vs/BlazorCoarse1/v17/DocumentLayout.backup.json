@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\serverlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\serverlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\searchbarcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\searchbarcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\citycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\citycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\citylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\citylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,39 +54,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CityComponent.razor",
-              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityComponent.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\CityComponent.razor",
-              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityComponent.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Controls\\CityComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T14:05:27.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CityListComponent.razor",
-              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityListComponent.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\CityListComponent.razor",
-              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityListComponent.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Controls\\CityListComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Title": "ServerListComponent.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerListComponent.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\ServerListComponent.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerListComponent.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerListComponent.razor",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T13:58:22.76Z",
+              "WhenOpened": "2025-04-09T14:49:16.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SearchbarComponent.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\SearchbarComponent.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\SearchbarComponent.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\SearchbarComponent.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Controls\\SearchbarComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T14:35:59.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Servers.razor",
               "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor",
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Servers.razor",
               "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor",
               "RelativeToolTip": "ServerManagement\\Components\\Pages\\Servers.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-09T13:01:38.815Z",
               "EditorCaption": ""
@@ -86,6 +94,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CityComponent.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityComponent.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\CityComponent.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityComponent.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Controls\\CityComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T14:05:27.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityListComponent.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityListComponent.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\CityListComponent.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityListComponent.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Controls\\CityListComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T13:58:22.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Layout\\NavMenu.razor",
@@ -98,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Program.cs",
               "RelativeDocumentMoniker": "ServerManagement\\Program.cs",
@@ -111,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\App.razor",
               "RelativeDocumentMoniker": "ServerManagement\\Components\\App.razor",
