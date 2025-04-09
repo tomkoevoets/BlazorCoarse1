@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\serverlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\ServerListComponent.razor",
               "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerListComponent.razor",
               "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerListComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-09T13:07:47.796Z",
               "EditorCaption": ""
@@ -60,27 +60,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Servers.razor",
-              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Servers.razor",
-              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Pages\\Servers.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T13:01:38.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ServerComponent.razor",
               "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
               "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
               "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-09T13:06:43.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servers.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Servers.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Pages\\Servers.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T13:01:38.815Z",
               "EditorCaption": ""
             },
             {
