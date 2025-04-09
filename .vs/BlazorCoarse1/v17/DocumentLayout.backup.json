@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\serverlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\serverlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\citycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\citycomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\citylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\citylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,27 +47,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServerListComponent.razor",
-              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerListComponent.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\ServerListComponent.razor",
-              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerListComponent.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerListComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Title": "CityComponent.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityComponent.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\CityComponent.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityComponent.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Controls\\CityComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T13:07:47.796Z",
+              "WhenOpened": "2025-04-09T14:05:27.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServerComponent.razor",
-              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Title": "CityListComponent.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityListComponent.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\CityListComponent.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\CityListComponent.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Controls\\CityListComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T13:06:43.673Z",
+              "WhenOpened": "2025-04-09T13:58:22.76Z",
               "EditorCaption": ""
             },
             {
@@ -78,7 +78,7 @@
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Servers.razor",
               "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor",
               "RelativeToolTip": "ServerManagement\\Components\\Pages\\Servers.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-09T13:01:38.815Z",
               "EditorCaption": ""
