@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\models\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\models\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\serverlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\serverlistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEB23FD-6407-4441-B9CB-48B32E914DBC}|ServerManagement\\ServerManagement.csproj|c:\\coarses\\blazor\\repo\u0027s\\blazorcoarse1\\servermanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,41 +46,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Todo.razor",
-              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Todo.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Todo.razor",
-              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Todo.razor*",
-              "RelativeToolTip": "ServerManagement\\Components\\Pages\\Todo.razor*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACYAAABJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ServerListComponent.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerListComponent.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\ServerListComponent.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerListComponent.razor*",
+              "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerListComponent.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-09T09:26:45.289Z",
+              "WhenOpened": "2025-04-09T13:07:47.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TodoRepository.cs",
-              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Models\\TodoRepository.cs",
-              "RelativeDocumentMoniker": "ServerManagement\\Models\\TodoRepository.cs",
-              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Models\\TodoRepository.cs",
-              "RelativeToolTip": "ServerManagement\\Models\\TodoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:36:15.042Z",
+              "DocumentIndex": 0,
+              "Title": "Servers.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Servers.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Pages\\Servers.razor*",
+              "RelativeToolTip": "ServerManagement\\Components\\Pages\\Servers.razor*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T13:01:38.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Todo.cs",
-              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Models\\Todo.cs",
-              "RelativeDocumentMoniker": "ServerManagement\\Models\\Todo.cs",
-              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Models\\Todo.cs",
-              "RelativeToolTip": "ServerManagement\\Models\\Todo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T09:36:53.493Z",
+              "Title": "ServerComponent.razor",
+              "DocumentMoniker": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
+              "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T13:06:43.673Z",
               "EditorCaption": ""
             },
             {
@@ -91,7 +91,7 @@
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\coarses\\blazor\\repo\u0027s\\BlazorCoarse1\\ServerManagement\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "ServerManagement\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-09T09:24:23.42Z",
               "EditorCaption": ""
