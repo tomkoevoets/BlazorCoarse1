@@ -7,9 +7,9 @@
 			@foreach (var city in cities)
 			{
 				<CityComponent 
-					city="@city"
-					selectedCity="@selectedCity"
-					SelectCityCallback="HandleCitySelection">
+				city="@city"
+				selectedCity="@selectedCity"
+				SelectCityCallback="HandleCitySelection">
 				</CityComponent>
 			}
 		</div>
@@ -22,6 +22,11 @@
 
 	[Parameter]
 	public EventCallback<string> SelectCityCallback { get; set; }
+
+	public void ClearSelection()
+	{
+		this.selectedCity = string.Empty;
+	}
 
     private List<String> cities = CitiesRepository.GetCities();
 
