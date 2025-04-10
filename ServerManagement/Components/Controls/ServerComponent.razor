@@ -2,7 +2,7 @@
 
 @if (Server != null)
 {
-    <li @key="Server.ServerId">
+    <li @key="Server.ServerId" style="background-color : @GetBackgroundColor()">
         @Server.Name in @Server.City is
         <span style="color:@((Server.IsOnline ? "green" : "red"))">
             @(Server.IsOnline ? "online" : "offline")
@@ -21,13 +21,13 @@
 
         @if (Server.IsOnline)
         {
-			Random random = new Random();
-			int randomActiveUsers = random.Next(0, 500);
+            Random random = new Random();
+            int randomActiveUsers = random.Next(0, 500);
             <text>@randomActiveUsers</text>
         }
         else
         {
-			<text>N/A</text>
+            <text>N/A</text>
         }
 
         &nbsp;
@@ -41,6 +41,7 @@
         </EditForm>
 
     </li>
+
 }
 
 
@@ -53,6 +54,10 @@
     [Parameter]
     public Server? Server { get; set; }
 
+    [CascadingParameter(Name = "SelectedCity")]
+    public string? SelectedCity { get; set; }
+
+
     private string? activeUsersOnServer = "2";
 
 
@@ -63,6 +68,35 @@
             ServersRepository.DeleteServer(serverId);
             NavigationManager.NavigateTo("/servers", true);
         }
+    }
+
+    private string GetBackgroundColor()
+    {
+        if (SelectedCity != null)
+        {
+            switch (this.SelectedCity)
+            {
+				case "Toronto":
+					return "lightblue";
+				case "Montreal":
+					return "lightgreen";
+                case "Vancouver":
+					return "lightyellow";
+				case "Calgary":
+					return "lightpink";
+				case "Ottawa":
+					return "lightgray";
+				case "Halifax":
+					return "lightcoral";
+				default:
+					return "white";
+
+            }
+        }
+		else
+		{
+			return "white";
+		}
     }
 
 }
