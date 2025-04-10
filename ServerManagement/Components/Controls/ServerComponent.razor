@@ -8,18 +8,13 @@
             @(Server.IsOnline ? "online" : "offline")
         </span>
         &nbsp;
-        <button type="button" class="btn btn-link" @onclick="@(()=> { this.editingServer = !this.editingServer; })" >Edit</button>
+        <a href="/servers/@Server.ServerId" class="btn btn-link">Edit</a>
         &nbsp;
         <EditForm Model="Server"
                   FormName="@($"form-server-{Server.ServerId}")"
                   OnValidSubmit="@(() => { DeleteServer(Server.ServerId); })">
             <button type="submit" class="btn btn-primary">Delete</button>
         </EditForm>
-
-		@if (editingServer)
-		{
-			<ServerManagement.Components.Pages.EditServer Id="this.Server.ServerId"></ServerManagement.Components.Pages.EditServer>
-		})
 
     </li>
 }
@@ -30,8 +25,6 @@
 
 
 @code {
-
-	private bool editingServer = false;
 
     [Parameter]
 	public Server? Server { get; set; }
